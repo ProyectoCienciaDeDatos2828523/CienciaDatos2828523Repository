@@ -1,8 +1,15 @@
-# Nombre del Proyecto
+# RUEDA DE LA VIDA
 
-Reposiorio creado para alamacenar rueda la vida creada con Excel y reforzar conocimientos basicos de GitHub
+Este repositorio contiene un archivo de Excel con una "rueda de vida" y varios documentos que explican el proceso de creación de la misma. La rueda de vida es una herramienta comúnmente utilizada para la autoevaluación y el desarrollo personal.
 
-## 🚀 Instalación
+## Contenido
+
+1. Rueda de Vida: Archivo Excel que contiene la plantilla de la rueda de vida, con categorías predefinidas para que el usuario pueda evaluar diferentes aspectos de su vida personal y profesional.
+2. Proceso de creación de la rueda de vida: Archivo Word que detalla cómo se creó la rueda de vida, su propósito y las bases teóricas.
+3. Referencias bibliográficas: Un archivo con las fuentes consultadas durante el proceso de desarrollo y fundamentación de la rueda de vida.
+
+
+## Descarga
 
 1. Clona el repositorio:
    ```sh
@@ -10,16 +17,22 @@ Reposiorio creado para alamacenar rueda la vida creada con Excel y reforzar cono
    ```
 2. Entra en la carpeta y abre los docuemntos que componen el proyecto.
 
-## 📌 Uso
+## Uso
 
-Este reposiorio contiene contiene la rueda de la vida en un archvio de Excel, el cual contiene cuestionarios y graficas. Ademas de esto, el repositorio contiene una carpeta con documentos que contextualizan sobre la rueda de la vida, referencias bibliograficas y las metas conseguidas en este proyecto.
+- Abre el archivo rueda_de_vida.xlsx. 
+- En las diferentes hojas y categorías de la rueda, califica tu satisfacción en cada una de ellas en una escala del 1 al 10 de forma sincera. 
+- Despues visualizaras de forma grafica los resultados de tus respuestas.
 
 ## 🛠 Tecnologías usadas
 
 - Microsoft Excel.
 - Microsoft Word.
 
-## 📋 Issues
+## Requisitos
+
+- Softwares para abrir archivos .xlsx, archivos .docx y archivos .pdf.
+  
+## Issues
 
 Si encuentras un problema, repórtalo en la pestaña [Issues](https://github.com/EDDIE05a/CienciaDatos2828523.git).
 
