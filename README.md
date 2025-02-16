@@ -23,7 +23,7 @@ Este repositorio contiene un archivo de Excel con una "rueda de vida" y varios d
 - En las diferentes hojas y categorías de la rueda, califica tu satisfacción en cada una de ellas en una escala del 1 al 10 de forma sincera. 
 - Despues visualizaras de forma grafica los resultados de tus respuestas.
 
-## 🛠 Tecnologías usadas
+## Tecnologías usadas
 
 - Microsoft Excel.
 - Microsoft Word.
